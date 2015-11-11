@@ -1,5 +1,7 @@
 <?php
 
-	echo "HELLO WORLD";
+	for($a=10; $a>0; $i++){
+		echo" ";
+	}
 
 ?>
